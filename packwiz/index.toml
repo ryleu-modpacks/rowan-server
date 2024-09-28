@@ -190,7 +190,7 @@ hash = "d82e2c54440507864dfa5fc9b530f16bba45ac70b6dba861068a3ee55804c4ea"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/load.mcfunction"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "62a32efa967796b9dbde986ab0a514821f0781c2fbd2ea710f079a8a3ef2a496"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/replacements/silver_hammer.mcfunction"
@@ -206,7 +206,7 @@ hash = "e1bf419328e3cd80728213f0c9d401ab51acc525d60ce199428ea40e77ff8499"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/tick.mcfunction"
-hash = "a32927ad6f6ea7b56a0798f819b688f9b804c20f76ae6b5ad914305c0f6a073c"
+hash = "23bded7edea40aaa3ba15cc1a9d8d159f1989a2c1ec370d4a28b5888932fdf54"
 
 [[files]]
 file = "world/datapacks/custom_items/pack.mcmeta"
