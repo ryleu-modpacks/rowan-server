@@ -190,19 +190,23 @@ hash = "d82e2c54440507864dfa5fc9b530f16bba45ac70b6dba861068a3ee55804c4ea"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/load.mcfunction"
-hash = "62a32efa967796b9dbde986ab0a514821f0781c2fbd2ea710f079a8a3ef2a496"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/replacements/silver_hammer.mcfunction"
-hash = "0e483d28a8e4a6f4e7f595175398a2b1ab53088d4f4ef7ffaf7c005784f6d4f9"
+hash = "5e17f91ac6ce02e0f6713102d80b24ae0e0bf62d98ce4fca3f8b92ca96f90a53"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/replacements/top_hat.mcfunction"
-hash = "1fdc45674810f54a2b40416e1d63752fa91014e73fc7a487bdf4de07225039f9"
+hash = "57ea4b28c52f490bf2acc9b487e2f703367cea7e5d648dc65b7380fd454e8b6d"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/function/replacements/topper_hat.mcfunction"
+hash = "e1bf419328e3cd80728213f0c9d401ab51acc525d60ce199428ea40e77ff8499"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/tick.mcfunction"
-hash = "7306c5f1bd15c08b73c6e09766ac0ab3b09d9a68a3c316ef6da7dc3b3091e1d6"
+hash = "a32927ad6f6ea7b56a0798f819b688f9b804c20f76ae6b5ad914305c0f6a073c"
 
 [[files]]
 file = "world/datapacks/custom_items/pack.mcmeta"
