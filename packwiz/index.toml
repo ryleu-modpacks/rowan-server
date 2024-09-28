@@ -177,10 +177,6 @@ file = "world/datapacks/custom_items/data/minecraft/tags/function/load.json"
 hash = "498b5128cd350528e90439bcab18ffeb1e30de97dc225d2732863ece3216c6b1"
 
 [[files]]
-file = "world/datapacks/custom_items/data/minecraft/tags/function/models.txt"
-hash = "a5c7699b4be634975ac25909f2f2acb76aee256fe866d8b7232e66ad3246a4bc"
-
-[[files]]
 file = "world/datapacks/custom_items/data/minecraft/tags/function/tick.json"
 hash = "94fd0aa97eb3891504cd7c89254da9918e93e64370644bcba6db56ac6b98efef"
 
@@ -191,6 +187,10 @@ hash = "d82e2c54440507864dfa5fc9b530f16bba45ac70b6dba861068a3ee55804c4ea"
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/load.mcfunction"
 hash = "62a32efa967796b9dbde986ab0a514821f0781c2fbd2ea710f079a8a3ef2a496"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/function/models.txt"
+hash = "a5c7699b4be634975ac25909f2f2acb76aee256fe866d8b7232e66ad3246a4bc"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/replacements/silver_hammer.mcfunction"
@@ -206,7 +206,7 @@ hash = "4c3d82b4be52b93012f183bf898080d1263391dafb78550c3d366e1a2cee9a73"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/tick.mcfunction"
-hash = "93ce823a02a9e380540b2544d6533b5c07d00f6bbd3f827e8bd6c48fde435d6f"
+hash = "c62f12b9ac8d5c7c02049e7755b8033dcd3831525cb0c74163497ac7ce3e8445"
 
 [[files]]
 file = "world/datapacks/custom_items/pack.mcmeta"
