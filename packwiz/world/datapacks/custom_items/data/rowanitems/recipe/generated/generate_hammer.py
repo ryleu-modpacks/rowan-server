@@ -39,7 +39,8 @@ types = [
     ("golden", block_of("gold"), 6510006),
     ("netherite", block_of("netherite"), 6510007),
     ("wooden", tag("logs_that_burn"), 6510008),
-    ("stone", item("stone"), 6510009)
+    ("stone", item("stone"), 6510009),
+    ("reset", item("cactus"), 0)
 ]
 
 for (name, addition, model) in types:
