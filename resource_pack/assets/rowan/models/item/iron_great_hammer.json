@@ -1,0 +1,6 @@
+{
+  "parent": "rowan:item/base/great_hammer",
+  "textures": {
+    "1": "rowan:item/iron_great_hammer"
+  }
+}

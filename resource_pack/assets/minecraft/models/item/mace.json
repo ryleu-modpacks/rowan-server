@@ -6,9 +6,39 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 6510009
+      },
+      "model": "rowan:item/stone_great_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6510008
+      },
+      "model": "rowan:item/wooden_great_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6510007
+      },
+      "model": "rowan:item/netherite_great_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6510006
+      },
+      "model": "rowan:item/gold_great_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6510005
+      },
+      "model": "rowan:item/diamond_great_hammer"
+    },
+    {
+      "predicate": {
         "custom_model_data": 6510000
       },
-      "model": "rowan:item/silver_hammer"
+      "model": "rowan:item/iron_great_hammer"
     }
   ]
 }
