@@ -182,7 +182,7 @@ hash = "94fd0aa97eb3891504cd7c89254da9918e93e64370644bcba6db56ac6b98efef"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/clear.mcfunction"
-hash = "d82e2c54440507864dfa5fc9b530f16bba45ac70b6dba861068a3ee55804c4ea"
+hash = "f75d40b20457ee0a815565d14537374cc4b3f21925520a702df9b0301fe605d8"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/load.mcfunction"
