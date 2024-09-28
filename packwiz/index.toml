@@ -190,11 +190,27 @@ hash = "62a32efa967796b9dbde986ab0a514821f0781c2fbd2ea710f079a8a3ef2a496"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/models.txt"
-hash = "a5c7699b4be634975ac25909f2f2acb76aee256fe866d8b7232e66ad3246a4bc"
+hash = "ee7c6db343bd6192111f5ac174b3442d8dfff8f7c18ca47459127d4d22a21b95"
 
 [[files]]
-file = "world/datapacks/custom_items/data/rowanitems/function/replacements/silver_hammer.mcfunction"
+file = "world/datapacks/custom_items/data/rowanitems/function/replacements/diamond_hammer.mcfunction"
+hash = "8e6335f3bf986b1f85fcd736f33c020a685acef2c483878fb3d951895b2886cc"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/function/replacements/golden_hammer.mcfunction"
+hash = "4a375102931daed345a520181216ac279772eef2a21b84c7b543feadc53e4ea2"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/function/replacements/iron_hammer.mcfunction"
 hash = "60a952d77eb7fad688297660fd8e177f96e5affcf0e39a2a28a78eeefd3f0f50"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/function/replacements/netherite_hammer.mcfunction"
+hash = "192e8a08cec9448e65f9550f30e1a25830054898c3bac8b3b5632078bf7dc5a3"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/function/replacements/stone_hammer.mcfunction"
+hash = "6999ee8ed234051ac70f848fbb1b82160a56cd1f1e0d4a2a23f4561ee2c4f1e7"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/replacements/top_hat.mcfunction"
@@ -205,8 +221,12 @@ file = "world/datapacks/custom_items/data/rowanitems/function/replacements/toppe
 hash = "4c3d82b4be52b93012f183bf898080d1263391dafb78550c3d366e1a2cee9a73"
 
 [[files]]
+file = "world/datapacks/custom_items/data/rowanitems/function/replacements/wooden_hammer.mcfunction"
+hash = "3270ff3957264b76162f98d50594e370c58a29fa0fa06174735eb48e7bdd88d9"
+
+[[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/tick.mcfunction"
-hash = "3c93055710e9f9d9d1603e83894b65733b9ca5ba18447485cb05349e419092d2"
+hash = "ab3fc5ccddd0db22a1845f52edd2072aebf77e5249840a53d20c1582855ce4a0"
 
 [[files]]
 file = "world/datapacks/custom_items/pack.mcmeta"

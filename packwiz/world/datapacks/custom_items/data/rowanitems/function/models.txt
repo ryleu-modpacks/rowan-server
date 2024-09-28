@@ -1,5 +1,10 @@
-6510000 -> silver hammer
+6510000 -> iron hammer
 6510001 -> cool sunglasses
 6510002 -> oversized tophat
 6510003 -> gun
 6510004 -> tophat
+6510005 -> diamond hammer
+6510006 -> gold hammer
+6510007 -> netherite hammer
+6510008 -> wooden hammer
+6510009 -> stone hammer
