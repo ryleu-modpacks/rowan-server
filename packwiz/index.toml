@@ -98,6 +98,11 @@ hash = "61527e2f37ef0edb8e91414c10d23b59dc3e6e5927801d1f9d4d4c3deeb35a44"
 metafile = true
 
 [[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "055f07add5e60ab4c1d8b3b312e07057bcbd89eccb033ded4f1dca5446444396"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "3c2696f296a9b195b68c4873fbe3ba07e049dcd5ccd459cc43ab5b86d1da4541"
 metafile = true
@@ -186,3 +191,11 @@ metafile = true
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "a59bb460cf1ca6b926b4e0e189b11cdf3d16de3bb8f7deb34cd7b5412c8abdf4"
 metafile = true
+
+[[files]]
+file = "world/datapacks/minecart/data/minecraft/recipe/powered_rail.json"
+hash = "3ad65ca36bab1c82e0228bea122077d31a5c483c83076649aec146b54a65b804"
+
+[[files]]
+file = "world/datapacks/minecart/pack.mcmeta"
+hash = "6d4fbd66221b8e8cb15cf29c1e1e25c088407188523895856ad4617c2929e076"

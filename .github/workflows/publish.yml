@@ -1,0 +1,29 @@
+name: Zip and upload
+on:
+    push:
+        branches: [main]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - name: Create directory
+              run: mkdir -p .output
+
+            - name: Compress files
+              run: zip -r .output/pack.zip ./resource_pack/*
+
+            - name: Hash zip
+              run: sha512sum .output/pack.zip > .output/pack.zip.sha512
+            
+            - name: Copy Packwiz
+              run: cp -r packwiz .output/packwiz
+
+            - name: Deploy
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                github_token: ${{ secrets.GITHUB_TOKEN }}
+                publish_dir: ./.output
+                keep_files: false
+                full_commit_message: update pack

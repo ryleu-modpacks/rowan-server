@@ -1,0 +1,5 @@
+6510000 -> silver hammer
+6510001 -> cool sunglasses
+6510002 -> oversized tophat
+6510003 -> gun
+6510004 -> tophat
