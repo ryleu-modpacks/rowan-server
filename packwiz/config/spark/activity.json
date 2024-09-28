@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "ryleu",
+      "uniqueId": "d9b9c3f4-1eee-4e8e-8ccf-c1421653c9f7"
+    },
+    "time": 1727020709050,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/jJ1vRWTUVI"
+    }
+  }
+]

@@ -1,0 +1,8 @@
+name = "Audaki Cart Engine (Faster Minecarts)"
+filename = "ACE_mc1.20.6-3.1.1-patch.1.ryleu.jar"
+side = "server"
+
+[download]
+url = "https://share.ryleu.me/-KaEa8ofaJ7"
+hash-format = "sha512"
+hash = "db32e0fef43fe88c948129867f4a38c29b023d395720a32b848d3a02e001fa69fe15ec9e1fe171559b789cc79f5ff3a72deeaadabc12f9e79f5309ffa8f05185"

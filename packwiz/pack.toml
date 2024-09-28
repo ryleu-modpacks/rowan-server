@@ -1,0 +1,13 @@
+name = "Rowan's Server"
+author = "ryleu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "48a08196a5f35cd5d521994bedbb066fed6388fcbb2a9c3f5a67854ed9216b76"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21.1"

@@ -1,0 +1,201 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/antixray.toml"
+hash = "c60dd6a46e310909e669ce8d91e05d447a503ea4cc02c47dc3d022297635d41e"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "2917a8f8112e36e27b240bdbe0e6987c5e8b0964595ed42ca2fbe1b16350df71"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "a43d13473a881e959cd5ff37ecc7b0d6d7d27477408a49d37dd8deec88c3f069"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
+
+[[files]]
+file = "config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "5c39746c2be5b7eabe3cf2fa6b02af9ef80d805bab1c1c5207330a79c7306e4c"
+
+[[files]]
+file = "config/justmobheads.json5"
+hash = "c5bcdc35b6c4fb7e5a96d552c10c13302c95956b3d6b038817cb97cd26f42801"
+
+[[files]]
+file = "config/justmobheads/headchances.txt"
+hash = "e4622525241def1fff7eda02b5a4d61c37a3450975cebe6a392983128641b60d"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "928fdb1e604e394de7389a4b7a7f230fe6863a468e1839bee22d80652ea0d31f"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "48bf75beb7954f81fe26170d695a64a9ed15aac03c6ab131929ef8c1cfb98037"
+
+[[files]]
+file = "config/spark/activity.json"
+hash = "c2a8f34e5b86016e49d1df5e77b35d1fbc90fb736bd3569a924aa44d4b16b235"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/spark/tmp-client/about.txt"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
+
+[[files]]
+file = "config/spark/tmp-client/spark-10422e765cd160-libasyncProfiler.so.tmp"
+hash = "13c034cb1f6452de2892278de4c49df7d910499c37c275a32895e67a4fb2bc54"
+
+[[files]]
+file = "config/spark/tmp-client/spark-1089c6eab5f5b1-profile-data.jfr.tmp"
+hash = "323e8362dddb1e6a8b73d4cc1b45de1f69300dc9cd2ac85521589fc8c524a3ca"
+
+[[files]]
+file = "config/threadtweak.json"
+hash = "43cdb3d0fe833c6ff4b32d9a69598d6193140484dda78fac82d92544ccfb0fc3"
+
+[[files]]
+file = "config/vanish.hocon"
+hash = "09d6405534a35c5b32a8bf28c944b3f4947d9bd1a98b6d8df74ec6f665fe0885"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "7e742acb9c3b0aa8b40d1e50a568bdecf28713f9745265ddba7a213c482fe34b"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "ce55cca2ed78f9465f8ec2779599bf3d0c722f71ea39cee845108dbaa814c5f7"
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "61527e2f37ef0edb8e91414c10d23b59dc3e6e5927801d1f9d4d4c3deeb35a44"
+metafile = true
+
+[[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "055f07add5e60ab4c1d8b3b312e07057bcbd89eccb033ded4f1dca5446444396"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "3c2696f296a9b195b68c4873fbe3ba07e049dcd5ccd459cc43ab5b86d1da4541"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "901e954cfcd2fcb7928b95959c7688fa0b210c6ad67d0f3f2f7e54ee939c839c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-mail.pw.toml"
+hash = "6e02a96a6767c084f7301ea0d14fd0d3b2fdb51916ad6a3aa34ea06571f07a52"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/just-mob-heads.pw.toml"
+hash = "6c7e2419de9b25b011bd31827b037ee117c7820acaa9ab8932b61c73fdb60071"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c24fcd33ecd783569879dbe9ecb8cdd1dcc7e00c1f40cda0271100255e155162"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a6ba298b74f6cc6d2ed3cf0f4223200cce95251413ac8a0d531d230cd6c7ddd0"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
+metafile = true
+
+[[files]]
+file = "mods/tick-stasis.pw.toml"
+hash = "fd8c56cc47b637a51a235badf7b285df0c1d43160c3668f1d759816f1d2edebb"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "f578bf7cc4d3d7f77c838a8fee634ba54c37b513c4b54e984c88a8cb5b3bdb3a"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "107f3b4c6c46863c5adda283a97f4648ec6507f1bfb353165c4d320adaccd568"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "a59bb460cf1ca6b926b4e0e189b11cdf3d16de3bb8f7deb34cd7b5412c8abdf4"
+metafile = true
+
+[[files]]
+file = "world/datapacks/minecart/data/minecraft/recipe/powered_rail.json"
+hash = "3ad65ca36bab1c82e0228bea122077d31a5c483c83076649aec146b54a65b804"
+
+[[files]]
+file = "world/datapacks/minecart/pack.mcmeta"
+hash = "6d4fbd66221b8e8cb15cf29c1e1e25c088407188523895856ad4617c2929e076"
