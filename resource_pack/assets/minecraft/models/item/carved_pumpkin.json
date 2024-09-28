@@ -3,15 +3,15 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 6510004
-      },
-      "model": "rowan:item/top_hat"
-    },
-    {
-      "predicate": {
         "custom_model_data": 6510002
       },
       "model": "rowan:item/topper_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6510004
+      },
+      "model": "rowan:item/top_hat"
     }
   ]
 }
