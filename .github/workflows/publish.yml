@@ -17,7 +17,7 @@ jobs:
               run: zip -r .output/pack.zip ./resource_pack/*
 
             - name: Hash zip
-              run: sha512sum .output/pack.zip > .output/pack.zip.sha512
+              run: sha1sum .output/pack.zip > .output/pack.zip.sha1
             
             - name: Copy Packwiz
               run: cp -r packwiz .output/packwiz
