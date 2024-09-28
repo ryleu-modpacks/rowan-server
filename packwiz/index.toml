@@ -229,6 +229,10 @@ file = "world/datapacks/custom_items/data/rowanitems/function/tick.mcfunction"
 hash = "ab3fc5ccddd0db22a1845f52edd2072aebf77e5249840a53d20c1582855ce4a0"
 
 [[files]]
+file = "world/datapacks/custom_items/data/rowanitems/recipe/hammer/iron_hammer.json"
+hash = "388a1a529304a60f9f1609a193c44c5eb03fd012b7dc45c25ce2b846f5077f15"
+
+[[files]]
 file = "world/datapacks/custom_items/pack.mcmeta"
 hash = "87ee22cb17641d634be080ce637c51102fddcd424780685224c0da0de101d54a"
 
