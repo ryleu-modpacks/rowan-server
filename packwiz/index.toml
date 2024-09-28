@@ -206,7 +206,7 @@ hash = "4c3d82b4be52b93012f183bf898080d1263391dafb78550c3d366e1a2cee9a73"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/tick.mcfunction"
-hash = "c62f12b9ac8d5c7c02049e7755b8033dcd3831525cb0c74163497ac7ce3e8445"
+hash = "3c93055710e9f9d9d1603e83894b65733b9ca5ba18447485cb05349e419092d2"
 
 [[files]]
 file = "world/datapacks/custom_items/pack.mcmeta"
