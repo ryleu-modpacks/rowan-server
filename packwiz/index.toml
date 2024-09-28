@@ -202,7 +202,7 @@ hash = "74cba018f03a10a975103a00c15b454285295c61204c47e9b7bc60db66ccaa5b"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/generate_hammer.py"
-hash = "628d896a1e9e764f40266bceaf330901672553b983d103fae9b5ddbe52dd514e"
+hash = "0c84ac14055e9bb104466ef039d5c2fd45bf34b0c45ff2e62f48d54dc9ff59ae"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/hammer/diamond_hammer.json"
@@ -219,6 +219,10 @@ hash = "388a1a529304a60f9f1609a193c44c5eb03fd012b7dc45c25ce2b846f5077f15"
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/hammer/netherite_hammer.json"
 hash = "6ea227e4e5ee3e25fbe40bd0cd47211433da187c10f1953eafb487a6d0c04a70"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/hammer/reset_hammer.json"
+hash = "1408f0ca233b17b5fa0808860bfce13fe6ca72dc636ea46de734ebdcd64a9698"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/hammer/stone_hammer.json"
