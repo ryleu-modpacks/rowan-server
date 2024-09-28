@@ -1,0 +1,1 @@
+scoreboard objectives add rowanitems.custom_model_data dummy
