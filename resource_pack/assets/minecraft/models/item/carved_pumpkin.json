@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/carved_pumpkin",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 6510004
+      },
+      "model": "rowan:item/top_hat"
+    }
+  ]
+}

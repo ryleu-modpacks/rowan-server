@@ -1,0 +1,2 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:carved_pumpkin"}},tag=!rowanitems.modified] at @s if entity @e[type=minecraft:item,nbt={Item:{id:"minecraft:black_wool"}},distance=...2] run function rowanitems:replacements/top_hat
+execute as @e[type=item,nbt={Item:{id:"minecraft:mace"}},tag=!rowanitems.modified] at @s if entity @e[type=minecraft:item,nbt={Item:{id:"minecraft:iron_block"}},distance=...2] run function rowanitems:replacements/silver_hammer
