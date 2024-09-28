@@ -53,26 +53,6 @@ file = "config/modernfix-mixins.properties"
 hash = "48bf75beb7954f81fe26170d695a64a9ed15aac03c6ab131929ef8c1cfb98037"
 
 [[files]]
-file = "config/spark/activity.json"
-hash = "c2a8f34e5b86016e49d1df5e77b35d1fbc90fb736bd3569a924aa44d4b16b235"
-
-[[files]]
-file = "config/spark/config.json"
-hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
-
-[[files]]
-file = "config/spark/tmp-client/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
-file = "config/spark/tmp-client/spark-10422e765cd160-libasyncProfiler.so.tmp"
-hash = "13c034cb1f6452de2892278de4c49df7d910499c37c275a32895e67a4fb2bc54"
-
-[[files]]
-file = "config/spark/tmp-client/spark-1089c6eab5f5b1-profile-data.jfr.tmp"
-hash = "323e8362dddb1e6a8b73d4cc1b45de1f69300dc9cd2ac85521589fc8c524a3ca"
-
-[[files]]
 file = "config/threadtweak.json"
 hash = "43cdb3d0fe833c6ff4b32d9a69598d6193140484dda78fac82d92544ccfb0fc3"
 
@@ -205,8 +185,12 @@ file = "world/datapacks/custom_items/data/minecraft/tags/function/tick.json"
 hash = "94fd0aa97eb3891504cd7c89254da9918e93e64370644bcba6db56ac6b98efef"
 
 [[files]]
+file = "world/datapacks/custom_items/data/rowanitems/function/clear.mcfunction"
+hash = "d82e2c54440507864dfa5fc9b530f16bba45ac70b6dba861068a3ee55804c4ea"
+
+[[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/load.mcfunction"
-hash = "f7a3019a48462efe7338f80dcae38b657bf3e16dbff150ce66016d365fdcada1"
+hash = "62a32efa967796b9dbde986ab0a514821f0781c2fbd2ea710f079a8a3ef2a496"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/replacements/silver_hammer.mcfunction"
@@ -218,7 +202,7 @@ hash = "1fdc45674810f54a2b40416e1d63752fa91014e73fc7a487bdf4de07225039f9"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/tick.mcfunction"
-hash = "439396c6b6ef273987a1f0388f67b00b20547fdbc22b52f5b772a03a0a394b16"
+hash = "7306c5f1bd15c08b73c6e09766ac0ab3b09d9a68a3c316ef6da7dc3b3091e1d6"
 
 [[files]]
 file = "world/datapacks/custom_items/pack.mcmeta"
