@@ -193,6 +193,38 @@ hash = "a59bb460cf1ca6b926b4e0e189b11cdf3d16de3bb8f7deb34cd7b5412c8abdf4"
 metafile = true
 
 [[files]]
+file = "world/datapacks/custom_items/data/minecraft/tags/function/load.json"
+hash = "498b5128cd350528e90439bcab18ffeb1e30de97dc225d2732863ece3216c6b1"
+
+[[files]]
+file = "world/datapacks/custom_items/data/minecraft/tags/function/models.txt"
+hash = "a5c7699b4be634975ac25909f2f2acb76aee256fe866d8b7232e66ad3246a4bc"
+
+[[files]]
+file = "world/datapacks/custom_items/data/minecraft/tags/function/tick.json"
+hash = "94fd0aa97eb3891504cd7c89254da9918e93e64370644bcba6db56ac6b98efef"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/function/load.mcfunction"
+hash = "f7a3019a48462efe7338f80dcae38b657bf3e16dbff150ce66016d365fdcada1"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/function/replacements/silver_hammer.mcfunction"
+hash = "0e483d28a8e4a6f4e7f595175398a2b1ab53088d4f4ef7ffaf7c005784f6d4f9"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/function/replacements/top_hat.mcfunction"
+hash = "1fdc45674810f54a2b40416e1d63752fa91014e73fc7a487bdf4de07225039f9"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/function/tick.mcfunction"
+hash = "439396c6b6ef273987a1f0388f67b00b20547fdbc22b52f5b772a03a0a394b16"
+
+[[files]]
+file = "world/datapacks/custom_items/pack.mcmeta"
+hash = "87ee22cb17641d634be080ce637c51102fddcd424780685224c0da0de101d54a"
+
+[[files]]
 file = "world/datapacks/minecart/data/minecraft/recipe/powered_rail.json"
 hash = "3ad65ca36bab1c82e0228bea122077d31a5c483c83076649aec146b54a65b804"
 
