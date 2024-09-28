@@ -1,1 +1,1 @@
-say Loaded custom items!
+scoreboard objectives add rowanitems.custom_model_data dummy
