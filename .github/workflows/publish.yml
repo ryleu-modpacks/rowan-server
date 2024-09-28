@@ -14,7 +14,7 @@ jobs:
               run: mkdir -p .output
 
             - name: Compress files
-              run: zip -r .output/pack.zip ./resource_pack/*
+              run: cd resource_pack && zip -r ../.output/pack.zip ./*
 
             - name: Hash zip
               run: sha1sum .output/pack.zip > .output/pack.zip.sha1
