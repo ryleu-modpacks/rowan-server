@@ -34,7 +34,7 @@ def ingot_of(material):
 types = [
     ("pistol", ingot_of("iron"), 6510003),
     ("blaster_pistol", block_of("iron"), 6510011),
-    ("rifle", "diamond", 6510012),
+    ("rifle", item("diamond"), 6510012),
     ("blaster_rifle", block_of("diamond"), 6510013),
     ("reset", item("cactus"), 0)
 ]
