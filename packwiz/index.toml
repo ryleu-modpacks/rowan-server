@@ -286,7 +286,7 @@ hash = "937e6f369324e5a92ab07eb8531a865ae62f36e2c82fdc2c9247f3cf4b54614f"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/invisible_item_frame.json"
-hash = "611761c47aa87ec7171f23b283f7f78562b0c629dfa35a008a0ca676088ebc7d"
+hash = "06b02cd2605fa24670e650b50679b3f7904a626764008cc6c6da1f8c8a853182"
 
 [[files]]
 file = "world/datapacks/custom_items/pack.mcmeta"
