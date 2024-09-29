@@ -8,3 +8,4 @@
 6510007 -> netherite hammer
 6510008 -> wooden hammer
 6510009 -> stone hammer
+6510010 -> netherstar hammer
