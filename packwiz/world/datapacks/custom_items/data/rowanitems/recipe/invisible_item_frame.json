@@ -7,7 +7,7 @@
     "item": "minecraft:glass_pane"
   },
   "template": {
-    "item": "minecraft:air"
+    "item": "minecraft:stick"
   },
   "result": {
     "id": "minecraft:item_frame",
