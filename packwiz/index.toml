@@ -285,6 +285,10 @@ file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/hammer/woo
 hash = "937e6f369324e5a92ab07eb8531a865ae62f36e2c82fdc2c9247f3cf4b54614f"
 
 [[files]]
+file = "world/datapacks/custom_items/data/rowanitems/recipe/invisible_item_frame.json"
+hash = "611761c47aa87ec7171f23b283f7f78562b0c629dfa35a008a0ca676088ebc7d"
+
+[[files]]
 file = "world/datapacks/custom_items/pack.mcmeta"
 hash = "87ee22cb17641d634be080ce637c51102fddcd424780685224c0da0de101d54a"
 

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:item_frame"
+  },
+  "addition": {
+    "item": "minecraft:glass_pane"
+  },
+  "template": {
+    "item": "minecraft:air"
+  },
+  "result": {
+    "id": "minecraft:item_frame",
+    "components": {
+      "minecraft:entity_data": {
+        "id": "minecraft:item_frame",
+        "Invisible": true
+      },
+      "minecraft:custom_name": "{\"text\":\"Invisible Item Frame\",\"italic\":false}"
+    }
+  }
+}
