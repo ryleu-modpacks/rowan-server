@@ -138,6 +138,11 @@ hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
 metafile = true
 
 [[files]]
+file = "mods/more-affordable-than-ever.pw.toml"
+hash = "5a90bdb30b37e70fffd3b33de56382e8794cb35f13b5ab75869b25077f85e1e8"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true

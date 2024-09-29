@@ -1,0 +1,13 @@
+name = "More Affordable Than Ever - Never Too Expensive"
+filename = "affordable-1.21-v1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gZ09gTMv/versions/xO95Khci/affordable-1.21-v1.0.jar"
+hash-format = "sha512"
+hash = "8a700dc5648b0f6f87e6c0753fe83b9f91998d2f779bf249bb4692c8a8b62e677b56181d7a7478c59208ba7c389cae77106e877c74365b115da9b61fdbfbd9f9"
+
+[update]
+[update.modrinth]
+mod-id = "gZ09gTMv"
+version = "xO95Khci"
