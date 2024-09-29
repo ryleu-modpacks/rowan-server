@@ -1,0 +1,13 @@
+name = "Better Boat Movement"
+filename = "better-boat-movement-2.2.3-1.21+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wTfH1dkt/versions/3x8hTIdF/better-boat-movement-2.2.3-1.21%2Bfabric.jar"
+hash-format = "sha512"
+hash = "d130bdaac81ba373183271ec59ec25d16a230f65657742a8dd890c9f2ae14ff8f1d8501f3c4acf51526186d3a06f80373e7633acd15b4128c50d63b992c9cbdd"
+
+[update]
+[update.modrinth]
+mod-id = "wTfH1dkt"
+version = "3x8hTIdF"

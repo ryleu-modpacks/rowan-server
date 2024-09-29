@@ -1,7 +1,7 @@
 6510000 -> iron hammer
 6510001 -> cool sunglasses
 6510002 -> oversized tophat
-6510003 -> gun
+6510003 -> pistol
 6510004 -> tophat
 6510005 -> diamond hammer
 6510006 -> gold hammer
@@ -9,3 +9,6 @@
 6510008 -> wooden hammer
 6510009 -> stone hammer
 6510010 -> netherstar hammer
+6510011 -> blaster pistol
+6510012 -> rifle
+6510013 -> blaster rifle
