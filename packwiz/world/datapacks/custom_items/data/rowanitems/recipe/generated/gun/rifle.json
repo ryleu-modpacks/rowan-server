@@ -6,7 +6,9 @@
   "template": {
     "item": "minecraft:gunpowder"
   },
-  "addition": "diamond",
+  "addition": {
+    "item": "minecraft:diamond"
+  },
   "result": {
     "id": "minecraft:crossbow",
     "components": {

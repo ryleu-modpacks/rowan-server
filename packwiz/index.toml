@@ -217,7 +217,7 @@ hash = "74cba018f03a10a975103a00c15b454285295c61204c47e9b7bc60db66ccaa5b"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/generate_gun.py"
-hash = "4b7fd929f4ac37e8299a74ab3b26e6059054efae174a54614aa7e787471284e1"
+hash = "d48bb1d1613c08dd3f3e7058f6cd67201db5e8d7b6ca50c51b05c7842e81651b"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/generate_hammer.py"
@@ -241,7 +241,7 @@ hash = "9118e8fc49af2403c5d016ed6cc58018a50511741c1bffdd7530252547658747"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/gun/rifle.json"
-hash = "ccc9acd7c02c63801a50ff1847457434d4da91ad104508b6bf87aaf1ec6f11ab"
+hash = "6e7867b2d0f768d562e07de89bff62ae0c0d78acf867fc9c8da7aa0385542c0d"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/hammer/diamond_hammer.json"
