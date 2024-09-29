@@ -1,6 +1,6 @@
 {
-  "parent": "paladins:item/base/great_hammer",
+  "parent": "rowan:item/base/great_hammer",
   "textures": {
-    "1": "paladins:item/netherstar_great_hammer"
+    "1": "rowan:item/netherstar_great_hammer"
   }
 }
