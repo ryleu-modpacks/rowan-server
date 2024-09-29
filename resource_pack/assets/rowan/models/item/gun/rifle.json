@@ -1,0 +1,6 @@
+{
+	"parent": "rowan:item/base/base_gun",
+	"textures": {
+		"layer0": "rowan:item/gun/rifle"
+	}
+}

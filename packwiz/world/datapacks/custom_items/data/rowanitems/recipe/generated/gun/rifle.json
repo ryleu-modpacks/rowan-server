@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:crossbow"
+  },
+  "template": {
+    "item": "minecraft:gunpowder"
+  },
+  "addition": "diamond",
+  "result": {
+    "id": "minecraft:crossbow",
+    "components": {
+      "minecraft:custom_model_data": 6510012
+    }
+  }
+}

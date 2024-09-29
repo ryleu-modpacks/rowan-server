@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:crossbow"
+  },
+  "template": {
+    "item": "minecraft:gunpowder"
+  },
+  "addition": {
+    "item": "minecraft:cactus"
+  },
+  "result": {
+    "id": "minecraft:crossbow",
+    "components": {
+      "minecraft:custom_model_data": 0
+    }
+  }
+}

@@ -83,6 +83,11 @@ hash = "055f07add5e60ab4c1d8b3b312e07057bcbd89eccb033ded4f1dca5446444396"
 metafile = true
 
 [[files]]
+file = "mods/better-boat-movement.pw.toml"
+hash = "f216932bf923da8fa6fb373e2b100162742073cc9556f7534488c20e32fa9436"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "3c2696f296a9b195b68c4873fbe3ba07e049dcd5ccd459cc43ab5b86d1da4541"
 metafile = true
@@ -100,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "a0f68c2f7f4138a8abde7f8001fa92df3daa863490572b790ffd074a31903b02"
 metafile = true
 
 [[files]]
@@ -173,6 +183,11 @@ hash = "a59bb460cf1ca6b926b4e0e189b11cdf3d16de3bb8f7deb34cd7b5412c8abdf4"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "a7dfd31be81fce18191a5468bf24a04dff7275062d9f285e3b52eec771157390"
+metafile = true
+
+[[files]]
 file = "world/datapacks/custom_items/data/minecraft/tags/function/load.json"
 hash = "498b5128cd350528e90439bcab18ffeb1e30de97dc225d2732863ece3216c6b1"
 
@@ -186,7 +201,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/models.txt"
-hash = "f86f9140743b72bca24e0009c774388143b63fc29d62a2ac5a1de7ca94a90b0b"
+hash = "4dc9171af79b2d0485da8908999822bea65a8bb5d3ad03eeae5324a61441886c"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/replacements/top_hat.mcfunction"
@@ -201,8 +216,32 @@ file = "world/datapacks/custom_items/data/rowanitems/function/tick.mcfunction"
 hash = "74cba018f03a10a975103a00c15b454285295c61204c47e9b7bc60db66ccaa5b"
 
 [[files]]
+file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/generate_gun.py"
+hash = "4b7fd929f4ac37e8299a74ab3b26e6059054efae174a54614aa7e787471284e1"
+
+[[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/generate_hammer.py"
 hash = "65d8a20d56639c7850f0c02ca0a4bbf524278dfec0ce5879b43650375dcac33a"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/gun/blaster_pistol.json"
+hash = "c3397a356df61b84c16abb6fc31d391f32f94e8462723f81a3b1bde336fbf16d"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/gun/blaster_rifle.json"
+hash = "7a86bd2b0b6bbfdade19c18f6da8d626639b77af37f0e580b2eb9cca28498502"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/gun/pistol.json"
+hash = "33bc6f663b76af3d278f725862fe5d2742e9fcf4ae4d6e217cfe076f2e09f538"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/gun/reset.json"
+hash = "9118e8fc49af2403c5d016ed6cc58018a50511741c1bffdd7530252547658747"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/gun/rifle.json"
+hash = "ccc9acd7c02c63801a50ff1847457434d4da91ad104508b6bf87aaf1ec6f11ab"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/hammer/diamond_hammer.json"
