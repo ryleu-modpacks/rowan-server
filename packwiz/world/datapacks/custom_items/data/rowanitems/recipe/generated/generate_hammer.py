@@ -40,6 +40,7 @@ types = [
     ("netherite", block_of("netherite"), 6510007),
     ("wooden", tag("logs_that_burn"), 6510008),
     ("stone", item("stone"), 6510009),
+    ("netherstar", item("nether_star"), 6510010),
     ("reset", item("cactus"), 0)
 ]
 

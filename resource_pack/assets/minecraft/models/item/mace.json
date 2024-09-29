@@ -39,6 +39,12 @@
         "custom_model_data": 6510009
       },
       "model": "rowan:item/stone_great_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6510010
+      },
+      "model": "rowan:item/netherstar_great_hammer"
     }
   ]
 }

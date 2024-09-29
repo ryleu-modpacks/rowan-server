@@ -186,7 +186,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/models.txt"
-hash = "ee7c6db343bd6192111f5ac174b3442d8dfff8f7c18ca47459127d4d22a21b95"
+hash = "f86f9140743b72bca24e0009c774388143b63fc29d62a2ac5a1de7ca94a90b0b"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/function/replacements/top_hat.mcfunction"
@@ -202,7 +202,7 @@ hash = "74cba018f03a10a975103a00c15b454285295c61204c47e9b7bc60db66ccaa5b"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/generate_hammer.py"
-hash = "0c84ac14055e9bb104466ef039d5c2fd45bf34b0c45ff2e62f48d54dc9ff59ae"
+hash = "65d8a20d56639c7850f0c02ca0a4bbf524278dfec0ce5879b43650375dcac33a"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/hammer/diamond_hammer.json"
@@ -219,6 +219,10 @@ hash = "388a1a529304a60f9f1609a193c44c5eb03fd012b7dc45c25ce2b846f5077f15"
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/hammer/netherite_hammer.json"
 hash = "6ea227e4e5ee3e25fbe40bd0cd47211433da187c10f1953eafb487a6d0c04a70"
+
+[[files]]
+file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/hammer/netherstar_hammer.json"
+hash = "0b022fe540bade88b513c37113441568a97d609d581c880f206cadb8917a186c"
 
 [[files]]
 file = "world/datapacks/custom_items/data/rowanitems/recipe/generated/hammer/reset_hammer.json"
