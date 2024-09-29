@@ -21,6 +21,10 @@ file = "config/badoptimizations.txt"
 hash = "2917a8f8112e36e27b240bdbe0e6987c5e8b0964595ed42ca2fbe1b16350df71"
 
 [[files]]
+file = "config/better-boat-movement.json"
+hash = "239843002431c75e3479584f2dbfcef73a839db81070d8c71d25b9b78ba3a246"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "a43d13473a881e959cd5ff37ecc7b0d6d7d27477408a49d37dd8deec88c3f069"
 
